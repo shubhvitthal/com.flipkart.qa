@@ -1,0 +1,4 @@
+# Created at 2022-08-24T21:35:08.674
+Boot Manifest-JAR contains absolute paths in classpath 'F:\SOFTWARE TEST PROJECT\MY PROJECT\com.flipkart.qa\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+

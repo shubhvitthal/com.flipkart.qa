@@ -1,0 +1,15 @@
+-------------------------------------------------------------------------------
+Test set: com.flipkart.qa.TestCases.HomePageTest
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 1, Errors: 0, Skipped: 1, Time elapsed: 57.196 s <<< FAILURE! - in com.flipkart.qa.TestCases.HomePageTest
+com.flipkart.qa.TestCases.HomePageTest.setup  Time elapsed: 51.94 s  <<< FAILURE!
+org.openqa.selenium.WebDriverException: 
+unknown error: net::ERR_CONNECTION_TIMED_OUT
+  (Session info: chrome=104.0.5112.102)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LENOVO', ip: '192.168.1.100', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '17.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 104.0.5112.102, chrome: {chromedriverVersion: 103.0.5060.53 (a1711811edd7..., userDataDir: C:\Users\Admin\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:57676}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 1872ea5c8a09aff8de9656f3a9fcb38c
+	at com.flipkart.qa.TestCases.HomePageTest.setup(HomePageTest.java:17)
+

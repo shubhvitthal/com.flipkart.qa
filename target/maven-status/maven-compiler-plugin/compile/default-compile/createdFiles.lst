@@ -1,0 +1,5 @@
+com\flipkart\qa\Pages\LoginPage.class
+com\flipkart\qa\Utility\Utils.class
+com\flipkart\qa\Base\TestBase.class
+com\flipkart\qa\Pages\HomePage.class
+com\flipkart\qa\Pages\MobilesPage.class
